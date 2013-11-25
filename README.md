@@ -1,4 +1,0 @@
-terclus
-=======
-
-App deportiva
